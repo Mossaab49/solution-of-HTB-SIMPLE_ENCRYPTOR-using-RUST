@@ -16,8 +16,9 @@ simple_encryptor/
 └── encrypt            ← optional
 
 
-## ⚡ Features > ⚠️ Spoiler alert: don't read the code until you try decrypting yourself!
+## ⚡ Features 
 
+> ⚠️ Spoiler alert: don't read the code until you try decrypting yourself!
 - Reads the first 4 bytes as a **little-endian seed**
 - Reads the rest of the encrypted file safely
 - Written in **idiomatic Rust**
